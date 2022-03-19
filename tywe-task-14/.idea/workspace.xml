@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2de890c-f45f-41cd-ae21-485e55c7239a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1nZdHEEzRLYhDayDF4NNuGHEdIK" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.LinkedListTest.getFirstThrowsExceptionWhenListIsEmpty">
+    <configuration name="LinkedListTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.getFirstThrowsExceptionWhenListIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="METHOD_NAME" value="getFirstThrowsExceptionWhenListIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.isEmptyIsTrueWhenAllElementsHaveBeenRemovedByRemoveFirst" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="METHOD_NAME" value="isEmptyIsTrueWhenAllElementsHaveBeenRemovedByRemoveFirst" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.removeFirstReturnsCorrectElement" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="METHOD_NAME" value="removeFirstReturnsCorrectElement" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedListTest.sizeIsZeroWhenListIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-14" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LinkedListTest" />
+      <option name="METHOD_NAME" value="sizeIsZeroWhenListIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LinkedListTest.getFirstThrowsExceptionWhenListIsEmpty" />
+        <item itemvalue="JUnit.LinkedListTest" />
+        <item itemvalue="JUnit.LinkedListTest.sizeIsZeroWhenListIsEmpty" />
+        <item itemvalue="JUnit.LinkedListTest.removeFirstReturnsCorrectElement" />
+        <item itemvalue="JUnit.LinkedListTest.isEmptyIsTrueWhenAllElementsHaveBeenRemovedByRemoveFirst" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2de890c-f45f-41cd-ae21-485e55c7239a" name="Default Changelist" comment="" />
+      <created>1611601461784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611601461784</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="126" width="1200" height="609" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1611869439062">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="140" y="126" width="1200" height="609" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611869439062" />
+    <state x="491" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1611780622253">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="491" y="292" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611780622253" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom" timestamp="1612352738479">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1612297516159" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612352738479" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692307" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center" timestamp="1612352738477">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1612297516158" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612352738477" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692306" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left" timestamp="1612352738476">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1612297516157" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612352738476" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692305" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right" timestamp="1612352738478">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1612297516158" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612352738478" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692306" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom" timestamp="1612351274526">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612351274526" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692309" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center" timestamp="1612351274525">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612351274525" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692308" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left" timestamp="1612351274525">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612351274525" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692308" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right" timestamp="1612351274526">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1612351274526" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611879692309" />
+    <state x="463" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1611852297292">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="463" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611852297292" />
+    <state x="443" y="213" key="refactoring.ChangeSignatureDialog" timestamp="1611865766703">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="443" y="213" key="refactoring.ChangeSignatureDialog/1440.23.1920.1057/0.23.1440.823@0.23.1440.823" timestamp="1611865766703" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/tywe_task_14$LinkedListTest_addLastIncrementsSizeByOne.ic" NAME="LinkedListTest.addLastIncrementsSizeByOne Coverage Results" MODIFIED="1611869138974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

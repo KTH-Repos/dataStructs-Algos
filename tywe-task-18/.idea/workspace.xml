@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="507662b0-9d96-42e3-b1ab-ba310388cb3f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/GraphAlgorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphAlgorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GraphMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GraphMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MyHashMap.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oh2EON5DPCoCbSsuGDVu2IH0d4" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="JUnit.GraphAlgorithmsTest">
+    <configuration name="GraphAlgorithmsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphAlgorithmsTest.graphWithCycleHasPathToSelf" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphAlgorithmsTest" />
+      <option name="METHOD_NAME" value="graphWithCycleHasPathToSelf" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.addDuplicateEdgesDoesNotIncreasenumEdges" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="addDuplicateEdgesDoesNotIncreasenumEdges" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.toStringIsCorrectWhenGraphIsNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-18" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GraphTest" />
+      <option name="METHOD_NAME" value="toStringIsCorrectWhenGraphIsNotEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphAlgorithmsTest" />
+        <item itemvalue="JUnit.GraphTest" />
+        <item itemvalue="JUnit.GraphTest.toStringIsCorrectWhenGraphIsNotEmpty" />
+        <item itemvalue="JUnit.GraphTest.addDuplicateEdgesDoesNotIncreasenumEdges" />
+        <item itemvalue="JUnit.GraphAlgorithmsTest.graphWithCycleHasPathToSelf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="507662b0-9d96-42e3-b1ab-ba310388cb3f" name="Default Changelist" comment="" />
+      <created>1613724395075</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613724395075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1313" height="208" key="GridCell.Tab.0.bottom" timestamp="1615463308466">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1313" height="208" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1615463308466" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1614557022246" />
+    <state width="1313" height="208" key="GridCell.Tab.0.center" timestamp="1615463308465">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1313" height="208" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1615463308465" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1614557022245" />
+    <state width="1313" height="208" key="GridCell.Tab.0.left" timestamp="1615463308465">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1313" height="208" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1615463308465" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1614557022244" />
+    <state width="1313" height="208" key="GridCell.Tab.0.right" timestamp="1615463308465">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1313" height="208" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1615463308465" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1614557022246" />
+  </component>
+</project>

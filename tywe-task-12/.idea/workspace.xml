@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="550d46e6-4056-4f2b-9746-ab5dfdd62194" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reverse.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l46tlEUExrxKv8ovVVfIoDRrz8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="JUnit.ReverseTest">
+    <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Reverse" />
+      <module name="tywe-task-12" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest.reversedListDoesNotMutateOriginalWhenNonEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="METHOD_NAME" value="reversedListDoesNotMutateOriginalWhenNonEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest.reversedListIsEqualToOriginalWhenLengthIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="METHOD_NAME" value="reversedListIsEqualToOriginalWhenLengthIsOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseTest.reversedListIsReverseOfOriginalWhenNonEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tywe-task-12" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ReverseTest" />
+      <option name="METHOD_NAME" value="reversedListIsReverseOfOriginalWhenNonEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ReverseTest" />
+        <item itemvalue="Application.Reverse" />
+        <item itemvalue="JUnit.ReverseTest.reversedListDoesNotMutateOriginalWhenNonEmpty" />
+        <item itemvalue="JUnit.ReverseTest.reversedListIsEqualToOriginalWhenLengthIsOne" />
+        <item itemvalue="JUnit.ReverseTest.reversedListIsReverseOfOriginalWhenNonEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="550d46e6-4056-4f2b-9746-ab5dfdd62194" name="Default Changelist" comment="" />
+      <created>1606844233035</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606844233035</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom" timestamp="1610647096598">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1610646300101" />
+    <state width="1358" height="258" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1610647096598" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1606919079842" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1606918733851" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1607110207251" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1607039788323" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1607039459105" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center" timestamp="1610647096597">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1610646300100" />
+    <state width="1358" height="258" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1610647096597" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1606919079841" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1606918733849" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1607110207249" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1607039788322" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1607039459103" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left" timestamp="1610647096597">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1610646300100" />
+    <state width="1358" height="258" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1610647096597" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1606919079840" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1606918733849" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1607110207248" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1607039788322" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1607039459102" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right" timestamp="1610647096597">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1610646300101" />
+    <state width="1358" height="258" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1610647096597" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1606919079841" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1606918733850" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1607110207250" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1607039788323" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.816@0.23.1440.816" timestamp="1607039459104" />
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom" timestamp="1610647096599">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.bottom/0.23.1440.816@0.23.1440.816" timestamp="1610647096599" />
+    <state width="1358" height="258" key="GridCell.Tab.1.center" timestamp="1610647096598">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.center/0.23.1440.816@0.23.1440.816" timestamp="1610647096598" />
+    <state width="1358" height="258" key="GridCell.Tab.1.left" timestamp="1610647096598">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.left/0.23.1440.816@0.23.1440.816" timestamp="1610647096598" />
+    <state width="1358" height="258" key="GridCell.Tab.1.right" timestamp="1610647096599">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state width="1358" height="258" key="GridCell.Tab.1.right/0.23.1440.816@0.23.1440.816" timestamp="1610647096599" />
+    <state x="463" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1606856989447">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="463" y="330" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/1440.23.1920.1057/0.23.1440.814@0.23.1440.814" timestamp="1606856989447" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="num[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

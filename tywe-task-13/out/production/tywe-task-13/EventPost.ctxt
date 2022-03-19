@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EventPost
+comment0.text=\n\ This\ class\ allows\ you\ to\ create\ events\ in\n\ the\ newsfeed\ app.\n\n\ @author\ (Tomas)\n\ @version\ (2021-01-18)\n
+comment1.params=author
+comment1.target=EventPost(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ EventPost\n
+comment2.params=location
+comment2.target=void\ setLocation(java.lang.String)
+comment2.text=\n\ This\ sets\ the\ location\ of\ the\ event\ to\ the\n\ specified\ parameter.\n\ @param\ location\ the\ location\ of\ the\ event\n
+comment3.params=title
+comment3.target=void\ setTitle(java.lang.String)
+comment3.text=\n\ This\ sets\ the\ title\ of\ the\ event\ to\ the\n\ specified\ parameter.\n\ @param\ title\ the\ title\ of\ the\ event\n
+comment4.params=year\ month\ day
+comment4.target=void\ setDate(int,\ int,\ int)
+comment4.text=\n\ This\ sets\ the\ date\ of\ the\ event\ to\ the\n\ specified\ parameter\ in\ the\ format\ YYYY-MM-DD\n\ @param\ year\ the\ year\ of\ the\ event\n\ @param\ month\ the\ month\ of\ the\ event\n\ @param\ day\ the\ date\ of\ the\ event\n
+comment5.params=
+comment5.target=void\ display()
+comment5.text=\n\ This\ displays\ the\ total\ information\ of\ the\ event.\ \n\n
+numComments=6
